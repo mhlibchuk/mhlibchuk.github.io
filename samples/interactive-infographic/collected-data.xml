@@ -1,0 +1,75 @@
+<mapdriven:collected-data xmlns:enum="http://dita4publishers.org/enumerables"
+                          xmlns:applicability="http://dita4publishers.org/applicability"
+                          xmlns:index-terms="http://dita4publishers.org/index-terms"
+                          xmlns:mapdriven="http://dita4publishers.org/mapdriven">
+   <enum:enumerables>
+      <topicref xmlns="http://dita4publishers.org/enumerables" class="- map/topicref "
+                sourceId="id-7771--topicref-2-0-16"
+                xml:lang="en-us"
+                xtrc="topicref:1"
+                docUri="file:/C:/DITA_splash/obj/html5/temp/_map.ditamap"
+                type="concept"
+                topicID="concept_ngj_kwr_5x">
+         <title>SEO / UA</title>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-video" origId="video"
+                  xml:lang="en-us"
+                  xtrc="concept:2"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="video"
+                  outputclass="video-panel grey">
+            <title>SEO in 2016 and Beyond</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-trends"
+                  origId="trends"
+                  xml:lang="en-us"
+                  xtrc="concept:3"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="trends"
+                  outputclass="grid-panel">
+            <title>Trends</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-richmedia"
+                  origId="richmedia"
+                  xml:lang="en-us"
+                  xtrc="concept:4"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="richmedia"
+                  outputclass="content-panel">
+            <title>Rich Media and SEO</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-quiz" origId="quiz"
+                  xml:lang="en-us"
+                  xtrc="concept:5"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="quiz"
+                  outputclass="quiz-panel">
+            <title>Quiz</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-marketing"
+                  origId="marketing"
+                  xml:lang="en-us"
+                  xtrc="concept:6"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="marketing"
+                  outputclass="content-panel grey">
+            <title>If You Build It, They Still Might Not Come</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-four" origId="four"
+                  xml:lang="en-us"
+                  xtrc="concept:7"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="four"
+                  outputclass="card-panel">
+            <title>SEO in 2017</title>
+         </concept>
+         <concept class="- topic/topic concept/concept " sourceId="id-34025-tips" origId="tips"
+                  xml:lang="en-us"
+                  xtrc="concept:8"
+                  docUri="file:/C:/DITA_splash/obj/html5/temp/intro.xml"
+                  id="tips">
+            <title>8 SEO Tips</title>
+         </concept>
+      </topicref>
+   </enum:enumerables>
+   <glossdata:glossary-entries xmlns:glossdata="http://dita4publishers.org/glossdata"/>
+</mapdriven:collected-data>

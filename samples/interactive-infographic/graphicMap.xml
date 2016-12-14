@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmap:graphic-map xmlns:gmap="http://dita4publishers/namespaces/graphic-input-to-output-map"
+                  xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/Shibuya.mp4"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/Shibuya.mp4"
+                          id="d143e1"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_star.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_star.png"
+                          id="d143e2"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_heart.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_heart.png"
+                          id="d143e3"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_phone.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_phone.png"
+                          id="d143e4"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_serp.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_serp.png"
+                          id="d143e5"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_video.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_video.png"
+                          id="d143e6"/>
+   <gmap:graphic-map-item input-url="file:/C:/DITA_splash/core.build.tools.docs/src/src/interactive/icons_good.png"
+                          output-url="file:/C:/DITA_splash/obj/html5/output/icons_good.png"
+                          id="d143e7"/>
+</gmap:graphic-map>

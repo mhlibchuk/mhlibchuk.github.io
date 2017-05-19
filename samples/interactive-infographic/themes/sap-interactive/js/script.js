@@ -53,6 +53,11 @@ $(document).ready(function(){
     
     
     animateImages();
+
+    $('#start').on('click', function(){
+        scrollPage();
+    });
+
 });
 
 
@@ -109,6 +114,12 @@ function animateMe() {
 }
 
 
+function scrollPage() {
+    elem = $('#trends');
+    $('html, body').animate({
+        scrollTop: elem.offset().top
+    }, 1000);
+}
 
 
 

@@ -10,6 +10,10 @@
     position: relative;
 }
 
+.travel .site-header{
+    min-height: 0;
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -240,4 +244,70 @@
             font-size: 18px;
         }
     }
+}
+
+/*
+Parallax
+*/
+
+.parallax{
+/* Set a specific height */
+   height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    opacity: 0.65;
+}
+
+.img1 {
+    background-image: url("../img/tangchi-lee-C4agU0uKw08-unsplash.jpg");
+    position: relative;
+}
+
+.img2 {
+    background-image: url("../img/IMG_1098.jpg");
+    position: relative;
+}
+
+.parallax p {
+    position: absolute;
+    left:0;
+    top:50%;
+    text-align: center;
+    width:100%;
+
+}
+
+.parallax p span {
+    padding: 18px;
+    background-color: #111;
+    color:#fff;
+    font-size: 25px;
+}
+
+.travel .page-content {
+    padding:0;
+    height:100%;
+}
+
+body, html {
+  height: 100%;
+}
+
+.travel p {
+    margin-bottom: 6px;
+    padding: 0 12px;
+}
+
+.travel h2 {
+    padding: 0 12px;
+    margin-bottom: 12px;
+    margin-top:24px;
+}
+.travel footer {
+    display:none;
+    
 }

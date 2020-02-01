@@ -10,6 +10,8 @@ title: Taipei
 </div>
 A list of things to do during our trip to Taipei.
 
+**Note:** 這只是 an idea. I know 我們已經去過 some 地方
+
 Days: ??
 
 Hotel: ??
@@ -45,3 +47,15 @@ No. 2, Lane 357, Section 2, Heping East Road, Da’an District, Taipei City, Tai
 No. 2, 和平東路二段357巷大安區台北市106
 
 [Website](https://thelocaltaipei.business.site/)
+
+
+<div class="parallax img3">
+    <p class="caption">
+    <span>
+    Tea and Coffee</span></p>
+</div>
+
+
+<!--
+Photo by Loverna Journey on Unsplash
+tea: Photo by 五玄土 ORIENTO on Unsplash -->

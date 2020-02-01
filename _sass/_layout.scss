@@ -255,22 +255,31 @@ Parallax
    height: 100%;
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-    opacity: 0.65;
+ 
 }
 
+
+
+
 .img1 {
-    background-image: url("../img/tangchi-lee-C4agU0uKw08-unsplash.jpg");
-    position: relative;
+    background-image: url("../img/taipei.jpg");
+
 }
 
 .img2 {
     background-image: url("../img/IMG_1098.jpg");
     position: relative;
 }
+
+.img3 {
+    background-image: url("../img/tea.jpg");
+    position: relative;
+}
+
 
 .parallax p {
     position: absolute;
@@ -286,6 +295,7 @@ Parallax
     background-color: #111;
     color:#fff;
     font-size: 25px;
+
 }
 
 .travel .page-content {
@@ -299,7 +309,10 @@ body, html {
 
 .travel p {
     margin-bottom: 6px;
-    padding: 0 12px;
+    padding: 0 0 0 12px;
+    -moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
 }
 
 .travel h2 {
